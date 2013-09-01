@@ -1,0 +1,7 @@
+{
+	"name": "dotsandboxes",
+	"description": "The classic boxes and dots game in the Node.js web-world",
+	"dependencies": {
+		"express": "*"
+	}
+}
